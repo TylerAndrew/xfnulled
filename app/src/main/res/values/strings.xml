@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">XFNulled</string>
+    <string name="publisher_id"></string> 
+    <item type="integer" name="displaymode">1</item>
+    
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+    <string name="stop">Stop</string>
+    <string name="noconnection">No internet connection was found</string>
+    <string name="ok">OK</string>
+    <string name="yes">Yes</string>
+    <string name="cancel">Cancel</string>
+    <string name="error">Error</string>
+    <string name="about">About</string> 
+    <string name="home">Home</string>
+    <string name="close">Close</string>
+    <string name="download">Download</string> 
+    <string name="saved">Saved at: </string> 
+    <string name="sharetitle">Share this!</string> 
+    <string name="download_confirm">Are you sure you want to download this file? It Might look like numbers and letters but it works :D</string>
+    <string name="download_done">The file has been saved in the downloads folder, open it by tapping the file in your notifications</string>
+    <string name="exit_message">Thank you for coming see you again</string>
+    <string name="dialog_about"><![CDATA[App Made My Admin @ XFNulled Thanks For All For The Help And Support And for Making Life Better]]></string>
+
+
+</resources>

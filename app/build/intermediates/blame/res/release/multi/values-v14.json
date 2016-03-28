@@ -1,0 +1,49 @@
+[
+    {
+        "outputFile": "/home/tyler/Downloads/Android/xfnulled/app/build/intermediates/res/merged/release/values-v14/values-v14.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 5,
+                    "endColumn": 12,
+                    "endOffset": 253
+                },
+                "from": {
+                    "file": "/home/tyler/Downloads/Android/xfnulled/app/src/main/res/values-v14/styles.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 225,
+                        "endLine": 10,
+                        "endColumn": 12,
+                        "endOffset": 426
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 258,
+                    "endLine": 8,
+                    "endColumn": 12,
+                    "endOffset": 423
+                },
+                "from": {
+                    "file": "/home/tyler/Downloads/Android/xfnulled/app/src/main/res/values-v14/styles.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 438,
+                        "endLine": 14,
+                        "endColumn": 12,
+                        "endOffset": 605
+                    }
+                }
+            }
+        ]
+    }
+]

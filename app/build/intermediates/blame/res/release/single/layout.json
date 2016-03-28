@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/tyler/Downloads/Android/xfnulled/app/build/intermediates/res/merged/release/layout/main.xml",
+        "source": "/home/tyler/Downloads/Android/xfnulled/app/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/home/tyler/Downloads/Android/xfnulled/app/build/intermediates/res/merged/release/layout/slide_down_view.xml",
+        "source": "/home/tyler/Downloads/Android/xfnulled/app/src/main/res/layout/slide_down_view.xml"
+    }
+]

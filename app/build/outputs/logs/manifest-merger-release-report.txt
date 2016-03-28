@@ -1,0 +1,178 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/tyler/Downloads/Android/xfnulled/app/src/main/AndroidManifest.xml:2:1-71:12
+	package
+		ADDED from /home/tyler/Downloads/Android/xfnulled/app/src/main/AndroidManifest.xml:3:5-33
+		INJECTED from /home/tyler/Downloads/Android/xfnulled/app/src/main/AndroidManifest.xml
+		INJECTED from /home/tyler/Downloads/Android/xfnulled/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /home/tyler/Downloads/Android/xfnulled/app/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /home/tyler/Downloads/Android/xfnulled/app/src/main/AndroidManifest.xml
+		INJECTED from /home/tyler/Downloads/Android/xfnulled/app/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /home/tyler/Downloads/Android/xfnulled/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /home/tyler/Downloads/Android/xfnulled/app/src/main/AndroidManifest.xml
+		INJECTED from /home/tyler/Downloads/Android/xfnulled/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/tyler/Downloads/Android/xfnulled/app/src/main/AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from /home/tyler/Downloads/Android/xfnulled/app/src/main/AndroidManifest.xml:7:5-72
+MERGED from [com.google.android.gms:play-services:6.5.87] /home/tyler/Downloads/Android/xfnulled/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:21.0.0] /home/tyler/Downloads/Android/xfnulled/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.0/AndroidManifest.xml:15:5-42
+	android:targetSdkVersion
+		ADDED from /home/tyler/Downloads/Android/xfnulled/app/src/main/AndroidManifest.xml:7:41-70
+		INJECTED from /home/tyler/Downloads/Android/xfnulled/app/src/main/AndroidManifest.xml
+		INJECTED from /home/tyler/Downloads/Android/xfnulled/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /home/tyler/Downloads/Android/xfnulled/app/src/main/AndroidManifest.xml:7:15-40
+		INJECTED from /home/tyler/Downloads/Android/xfnulled/app/src/main/AndroidManifest.xml
+		INJECTED from /home/tyler/Downloads/Android/xfnulled/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /home/tyler/Downloads/Android/xfnulled/app/src/main/AndroidManifest.xml:9:5-67
+	android:name
+		ADDED from /home/tyler/Downloads/Android/xfnulled/app/src/main/AndroidManifest.xml:9:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/tyler/Downloads/Android/xfnulled/app/src/main/AndroidManifest.xml:10:5-81
+	android:name
+		ADDED from /home/tyler/Downloads/Android/xfnulled/app/src/main/AndroidManifest.xml:10:22-78
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /home/tyler/Downloads/Android/xfnulled/app/src/main/AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from /home/tyler/Downloads/Android/xfnulled/app/src/main/AndroidManifest.xml:11:22-76
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from /home/tyler/Downloads/Android/xfnulled/app/src/main/AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from /home/tyler/Downloads/Android/xfnulled/app/src/main/AndroidManifest.xml:12:22-78
+uses-permission#android.permission.VIBRATE
+ADDED from /home/tyler/Downloads/Android/xfnulled/app/src/main/AndroidManifest.xml:13:5-66
+	android:name
+		ADDED from /home/tyler/Downloads/Android/xfnulled/app/src/main/AndroidManifest.xml:13:22-63
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /home/tyler/Downloads/Android/xfnulled/app/src/main/AndroidManifest.xml:14:2-65
+	android:name
+		ADDED from /home/tyler/Downloads/Android/xfnulled/app/src/main/AndroidManifest.xml:14:19-62
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from /home/tyler/Downloads/Android/xfnulled/app/src/main/AndroidManifest.xml:15:2-68
+	android:name
+		ADDED from /home/tyler/Downloads/Android/xfnulled/app/src/main/AndroidManifest.xml:15:19-65
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /home/tyler/Downloads/Android/xfnulled/app/src/main/AndroidManifest.xml:16:2-76
+	android:name
+		ADDED from /home/tyler/Downloads/Android/xfnulled/app/src/main/AndroidManifest.xml:16:19-73
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from /home/tyler/Downloads/Android/xfnulled/app/src/main/AndroidManifest.xml:17:2-79
+	android:name
+		ADDED from /home/tyler/Downloads/Android/xfnulled/app/src/main/AndroidManifest.xml:17:19-76
+permission#com.admin.xfnulled.permission.C2D_MESSAGE
+ADDED from /home/tyler/Downloads/Android/xfnulled/app/src/main/AndroidManifest.xml:19:2-20:67
+	android:protectionLevel
+		ADDED from /home/tyler/Downloads/Android/xfnulled/app/src/main/AndroidManifest.xml:19:14-49
+	android:name
+		ADDED from /home/tyler/Downloads/Android/xfnulled/app/src/main/AndroidManifest.xml:20:8-64
+uses-permission#com.admin.xfnulled.permission.C2D_MESSAGE
+ADDED from /home/tyler/Downloads/Android/xfnulled/app/src/main/AndroidManifest.xml:21:2-78
+	android:name
+		ADDED from /home/tyler/Downloads/Android/xfnulled/app/src/main/AndroidManifest.xml:21:19-75
+application
+ADDED from /home/tyler/Downloads/Android/xfnulled/app/src/main/AndroidManifest.xml:23:5-69:19
+MERGED from [com.google.android.gms:play-services:6.5.87] /home/tyler/Downloads/Android/xfnulled/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:21.0.0] /home/tyler/Downloads/Android/xfnulled/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.0/AndroidManifest.xml:16:5-19
+	android:label
+		ADDED from /home/tyler/Downloads/Android/xfnulled/app/src/main/AndroidManifest.xml:25:9-41
+	android:icon
+		ADDED from /home/tyler/Downloads/Android/xfnulled/app/src/main/AndroidManifest.xml:24:9-45
+	android:theme
+		ADDED from /home/tyler/Downloads/Android/xfnulled/app/src/main/AndroidManifest.xml:26:9-40
+	android:name
+		ADDED from /home/tyler/Downloads/Android/xfnulled/app/src/main/AndroidManifest.xml:27:9-46
+meta-data#com.google.android.gms.version
+ADDED from /home/tyler/Downloads/Android/xfnulled/app/src/main/AndroidManifest.xml:28:9-29:71
+MERGED from [com.google.android.gms:play-services:6.5.87] /home/tyler/Downloads/Android/xfnulled/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from /home/tyler/Downloads/Android/xfnulled/app/src/main/AndroidManifest.xml:29:16-69
+	android:name
+		ADDED from /home/tyler/Downloads/Android/xfnulled/app/src/main/AndroidManifest.xml:28:20-65
+activity#com.admin.xfnulled.MainActivity
+ADDED from /home/tyler/Downloads/Android/xfnulled/app/src/main/AndroidManifest.xml:30:9-39:20
+	android:label
+		ADDED from /home/tyler/Downloads/Android/xfnulled/app/src/main/AndroidManifest.xml:33:13-45
+	android:launchMode
+		ADDED from /home/tyler/Downloads/Android/xfnulled/app/src/main/AndroidManifest.xml:31:13-48
+	android:configChanges
+		ADDED from /home/tyler/Downloads/Android/xfnulled/app/src/main/AndroidManifest.xml:34:13-74
+	android:name
+		ADDED from /home/tyler/Downloads/Android/xfnulled/app/src/main/AndroidManifest.xml:32:13-59
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/tyler/Downloads/Android/xfnulled/app/src/main/AndroidManifest.xml:35:13-38:29
+action#android.intent.action.MAIN
+ADDED from /home/tyler/Downloads/Android/xfnulled/app/src/main/AndroidManifest.xml:36:17-69
+	android:name
+		ADDED from /home/tyler/Downloads/Android/xfnulled/app/src/main/AndroidManifest.xml:36:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/tyler/Downloads/Android/xfnulled/app/src/main/AndroidManifest.xml:37:17-77
+	android:name
+		ADDED from /home/tyler/Downloads/Android/xfnulled/app/src/main/AndroidManifest.xml:37:27-74
+activity#com.google.android.gms.ads.AdActivity
+ADDED from /home/tyler/Downloads/Android/xfnulled/app/src/main/AndroidManifest.xml:40:9-41:126
+	android:configChanges
+		ADDED from /home/tyler/Downloads/Android/xfnulled/app/src/main/AndroidManifest.xml:41:15-124
+	android:name
+		ADDED from /home/tyler/Downloads/Android/xfnulled/app/src/main/AndroidManifest.xml:40:19-71
+service#com.parse.PushService
+ADDED from /home/tyler/Downloads/Android/xfnulled/app/src/main/AndroidManifest.xml:43:3-51
+	android:name
+		ADDED from /home/tyler/Downloads/Android/xfnulled/app/src/main/AndroidManifest.xml:43:12-48
+receiver#com.parse.ParseBroadcastReceiver
+ADDED from /home/tyler/Downloads/Android/xfnulled/app/src/main/AndroidManifest.xml:45:9-50:20
+	android:name
+		ADDED from /home/tyler/Downloads/Android/xfnulled/app/src/main/AndroidManifest.xml:45:19-66
+intent-filter#android.intent.action.BOOT_COMPLETED+android.intent.action.USER_PRESENT
+ADDED from /home/tyler/Downloads/Android/xfnulled/app/src/main/AndroidManifest.xml:46:13-49:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from /home/tyler/Downloads/Android/xfnulled/app/src/main/AndroidManifest.xml:47:17-79
+	android:name
+		ADDED from /home/tyler/Downloads/Android/xfnulled/app/src/main/AndroidManifest.xml:47:25-76
+action#android.intent.action.USER_PRESENT
+ADDED from /home/tyler/Downloads/Android/xfnulled/app/src/main/AndroidManifest.xml:48:17-77
+	android:name
+		ADDED from /home/tyler/Downloads/Android/xfnulled/app/src/main/AndroidManifest.xml:48:25-74
+receiver#com.parse.GcmBroadcastReceiver
+ADDED from /home/tyler/Downloads/Android/xfnulled/app/src/main/AndroidManifest.xml:51:9-59:20
+	android:permission
+		ADDED from /home/tyler/Downloads/Android/xfnulled/app/src/main/AndroidManifest.xml:53:13-73
+	android:name
+		ADDED from /home/tyler/Downloads/Android/xfnulled/app/src/main/AndroidManifest.xml:52:13-58
+intent-filter#com.admin.xfnulled+com.google.android.c2dm.intent.RECEIVE+com.google.android.c2dm.intent.REGISTRATION
+ADDED from /home/tyler/Downloads/Android/xfnulled/app/src/main/AndroidManifest.xml:54:13-58:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from /home/tyler/Downloads/Android/xfnulled/app/src/main/AndroidManifest.xml:55:17-81
+	android:name
+		ADDED from /home/tyler/Downloads/Android/xfnulled/app/src/main/AndroidManifest.xml:55:25-78
+action#com.google.android.c2dm.intent.REGISTRATION
+ADDED from /home/tyler/Downloads/Android/xfnulled/app/src/main/AndroidManifest.xml:56:17-86
+	android:name
+		ADDED from /home/tyler/Downloads/Android/xfnulled/app/src/main/AndroidManifest.xml:56:25-83
+category#com.admin.xfnulled
+ADDED from /home/tyler/Downloads/Android/xfnulled/app/src/main/AndroidManifest.xml:57:17-63
+	android:name
+		ADDED from /home/tyler/Downloads/Android/xfnulled/app/src/main/AndroidManifest.xml:57:27-60
+receiver#com.admin.xfnulled.Receiver
+ADDED from /home/tyler/Downloads/Android/xfnulled/app/src/main/AndroidManifest.xml:60:3-68:20
+	android:exported
+		ADDED from /home/tyler/Downloads/Android/xfnulled/app/src/main/AndroidManifest.xml:62:13-37
+	android:name
+		ADDED from /home/tyler/Downloads/Android/xfnulled/app/src/main/AndroidManifest.xml:61:13-55
+intent-filter#com.parse.push.intent.DELETE+com.parse.push.intent.OPEN+com.parse.push.intent.RECEIVE
+ADDED from /home/tyler/Downloads/Android/xfnulled/app/src/main/AndroidManifest.xml:63:13-67:29
+action#com.parse.push.intent.RECEIVE
+ADDED from /home/tyler/Downloads/Android/xfnulled/app/src/main/AndroidManifest.xml:64:17-72
+	android:name
+		ADDED from /home/tyler/Downloads/Android/xfnulled/app/src/main/AndroidManifest.xml:64:25-69
+action#com.parse.push.intent.DELETE
+ADDED from /home/tyler/Downloads/Android/xfnulled/app/src/main/AndroidManifest.xml:65:17-71
+	android:name
+		ADDED from /home/tyler/Downloads/Android/xfnulled/app/src/main/AndroidManifest.xml:65:25-68
+action#com.parse.push.intent.OPEN
+ADDED from /home/tyler/Downloads/Android/xfnulled/app/src/main/AndroidManifest.xml:66:17-69
+	android:name
+		ADDED from /home/tyler/Downloads/Android/xfnulled/app/src/main/AndroidManifest.xml:66:25-66
